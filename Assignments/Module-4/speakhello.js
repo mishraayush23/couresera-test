@@ -6,7 +6,7 @@
 	}
 
 	window.helloSpeaker = helloSpeaker;
-
+}
 })(window);
 
 
