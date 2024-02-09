@@ -1,2 +1,0 @@
-# couresera-test
-coursera assignments
